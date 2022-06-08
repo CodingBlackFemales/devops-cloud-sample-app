@@ -1,11 +1,18 @@
 # 
-# Getting Started with Create React App
+# DevOps-Cloud Sample Project
+This is a one page react app for the above course.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### How to run application this application on your local dev machine
 
-## Available Scripts
+Make sure you have npm installed.  Package can be installed from this link https://nodejs.org/en/
+
+### `npm -v` && `node -v`
+Verifies versions of npm and node installed. NodeJS installs NPM as its the package manager for installinf node packages for your application.
 
 In the project directory, you can run:
+
+### `npm i`
+Installs all npm packges required to run the application
 
 ### `npm start`
 
@@ -48,14 +55,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
