@@ -36,7 +36,6 @@ Once your new repository created, clone it locally, and install its dependencies
 ```bash
 git clone git@github.com:${your-username}/${repository-name}.git
 cd ${repository-name}
-npm install
 ```
 
 **For example, in my case the above commands would look like this:**
@@ -44,7 +43,6 @@ npm install
 ```bash
 git clone git@github.com:voa2000/devops-cloud-sample.git
 cd devops-cloud-sample
-npm install
 ```
 
 ## Next steps
@@ -60,15 +58,24 @@ Once the setup completed:
 [6]: https://classic.yarnpkg.com/en/docs/install
 
 
-### `npm -v` && `node -v`
+### 
+```bash 
+npm -v && node -v
+```
 - Verifies versions of npm and node installed. NodeJS installs NPM as its the package manager for installinf node packages for your application.
 
 In the project directory, you can run:
 
-### `npm i`
+### 
+```bash 
+npm install
+```
 - Installs all npm packges required to run the application
 
-### `npm start`
+### 
+```bash
+npm start
+```
 
 - Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -76,12 +83,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - The page will reload when you make changes.\
 - You may also see any lint errors in the console.
 
-### `npm test`
+### 
+```bash
+npm test
+```
 
 - Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### 
+```bash
+npm run build
+```
 
 - Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
