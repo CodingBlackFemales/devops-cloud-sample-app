@@ -1,4 +1,4 @@
-# DevOps-Cloud Sample Project
+# DevOps-Cloud Sample App Project
 
 [![JavaScript Language](https://img.shields.io/badge/language-JavaScript-F7DF1E.svg?logo=JavaScript)][1]
 [![NodeJS Platform](https://img.shields.io/badge/platform-NodeJS-339933.svg?logo=Node.js)][2]
@@ -21,10 +21,10 @@ If you do not have Node.js installed locally, please follow these instructions:
 To use this starter project:
 
 - Click on the `Use this template` button
-- Fill out the details of your new project
+- Fill out the details of your new project as below
 - Then click on `Create repository from template`
 
-![Create repository from template](./docs/create-from-template.png)
+![Create repository from template](./docs/devops-cloud-sample-app.png)
 
 
 ## Development
