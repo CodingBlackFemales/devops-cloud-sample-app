@@ -41,7 +41,7 @@ cd ${repository-name}
 **For example, in my case the above commands would look like this:**
 
 ```bash
-git clone git@github.com:voa2000/devops-cloud-sample.git
+git clone git@github.com:voa2000/devops-cloud-sample-app.git
 cd devops-cloud-sample
 ```
 
