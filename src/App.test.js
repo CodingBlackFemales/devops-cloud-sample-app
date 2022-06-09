@@ -1,8 +1,14 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders DevOps Cloud Course title to screen', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const titleElement = screen.getByText(/DevOps Cloud Course/i);
+  expect(titleElement).toBeInTheDocument();
+});
+
+test('renders ALT text to screen', () => {
+  render(<App />);
+  const altElement = screen.getByAltText(/CBF.*? logo/i);
+  expect(altElement).toBeInTheDocument();
 });

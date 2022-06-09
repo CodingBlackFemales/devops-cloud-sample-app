@@ -5,13 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <p>
-          DevOps Cloud Course
-      </p>
+        <p>DevOps Cloud Course</p>
       </header>
-      <body className="App-body">
-      <img src={logo} className="App-logo" alt="logo" />
-      </body>
+      <footer className="App-footer">
+      <img src={logo} className="App-logo" alt="CBF logo" />
+      </footer>
     </div>
   );
 }
