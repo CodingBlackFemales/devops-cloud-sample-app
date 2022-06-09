@@ -4,7 +4,7 @@
 [![NodeJS Platform](https://img.shields.io/badge/platform-NodeJS-339933.svg?logo=Node.js)][2]
 [![Jest Testing Framework](https://img.shields.io/badge/testing%20framework-Jest-C21325.svg?logo=Jest)][3]
 [![NPM Package Manager](https://img.shields.io/badge/package%20manager-NPM-2C8EBB.svg?logo=NPM)][4]
-[![REACT ](https://img.shields.io/badge/package%20JavaScript-REACT-2C8EBB.svg?logo=REACT)][5]
+[![REACT ](https://img.shields.io/badge/Framework-REACT-2C8EBB.svg?logo=REACT)][5]
 
 A sample project (skeleton) to practice DevOps CI/CD pipelines.
 
@@ -53,9 +53,8 @@ Once the setup completed:
 [1]: https://www.javascript.com/
 [2]: https://nodejs.org/en/
 [3]: https://jestjs.io/
-[4]: https://classic.yarnpkg.com/en/
-[5]: https://nodejs.org/en/download/
-[6]: https://classic.yarnpkg.com/en/docs/install
+[4]: https://nodejs.org/en/download/
+[5]: https://reactjs.org/
 
 
 ### 
